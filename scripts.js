@@ -422,8 +422,8 @@ const questions = [
         question: "In predictive analytics, the term variance commonly refers to",
         answers: [
             { text: 'Accuracy', correct: false },
-            { text: 'Variance', correct: true },
-            { text: 'Consistency', correct: false },
+            { text: 'Variance', correct: false },
+            { text: 'Consistency', correct: true },
             { text: 'Error', correct: false },
             { text: 'Constant', correct: false }
         ]
