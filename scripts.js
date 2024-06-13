@@ -67,8 +67,8 @@ const questions = [
     {
         question: "In linear regression, the hypothesis testing reveals the existence of relationships between explanatory (i.e., input) variables.",
         answers: [
-            { text: 'True', correct: true },
-            { text: 'False', correct: false }
+            { text: 'True', correct: false },
+            { text: 'False', correct: true }
         ]
     },
     {
