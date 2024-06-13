@@ -1074,9 +1074,9 @@ const questions = [
         answers: [
             { text: 'Works on a narrow search space', correct: false },
             { text: 'Builds general purpose search applications', correct: false },
-            { text: 'Uses advanced statistical technologies', correct: true },
+            { text: 'Uses advanced statistical technologies', correct: false },
             { text: 'Focuses on the syntactic nature of the searched data', correct: false },
-            { text: 'Can handle a variety of data types', correct: false }
+            { text: 'Can handle a variety of data types', correct: true }
         ]
     }
 
