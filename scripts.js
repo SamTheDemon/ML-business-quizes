@@ -579,11 +579,11 @@ const questions = [
     {
         question: "Which of the following is not among the popular tasks performed by NLP?",
         answers: [
-            { text: 'Text to speech', correct: true },
+            { text: 'Text to speech', correct: false },
             { text: 'Foreign language reading and writing', correct: false },
             { text: 'Machine translation', correct: false },
             { text: 'Speech recognition', correct: false },
-            { text: 'Speech acts', correct: false }
+            { text: 'Speech acts', correct: true }
         ]
     },
     {
